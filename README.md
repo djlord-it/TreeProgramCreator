@@ -11,8 +11,8 @@ Ever seen a cool directory tree on GitHub or had an LLM describe one and thought
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YourUsername/DirectoryCreator.git
-   cd DirectoryCreator
+   git clone https://github.com/djlord-it/TreeProgramCreator.git
+   cd TreeProgramCreator
    ```
 2. Install dependencies:
    ```bash
